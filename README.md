@@ -97,5 +97,6 @@ We welcome contributions from the community!
 ## 🛡 License
 
 
-This project is licensed under the **MIT License**. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Hardik-Joshi123/techxcel-ATSoptimizer/blob/main/LICENSE) file for details.
+
 
