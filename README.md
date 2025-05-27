@@ -93,3 +93,9 @@ We welcome contributions from the community!
 5️⃣ Open a Pull Request 🎉
 
 ---
+
+## 🛡 License
+
+
+This project is licensed under the **MIT License**. See the LICENSE file for details.
+
